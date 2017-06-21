@@ -1,3 +1,5 @@
+Disclaimer: hardcoded values are on purpose for now.
+
 data-backup.json is the saved data, just in case you want to restore data.json.
 
 Query parameters you can use, examples:
